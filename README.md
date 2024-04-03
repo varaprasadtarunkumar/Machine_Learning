@@ -36,7 +36,7 @@ If you're a recruiter seeking someone who's not just proficient with machine lea
 
 ## Let's Connect
 
-Feel free to reach out to me via email at [your email address] or connect with me on LinkedIn [insert your LinkedIn profile link]. I'm always eager to discuss exciting opportunities and collaborations in the field of machine learning.
+Feel free to reach out to me via email at [gsevprasad2004@gmail.com] or connect with me on LinkedIn [(https://www.linkedin.com/in/g-srinivasa-eswara-vara-prasad-10962a229/)]. I'm always eager to discuss exciting opportunities and collaborations in the field of machine learning.
 
 ## Together, Let's Shape the Future of AI!
 
