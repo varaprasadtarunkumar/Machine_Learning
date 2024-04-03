@@ -5,7 +5,6 @@
 Welcome to the MachineLearning repository! Here, you'll find a treasure trove of Jupyter Notebooks showcasing the implementation of fundamental machine learning algorithms from scratch. No shortcuts, no black boxes - just pure, unadulterated code crafted by a passionate learner and practitioner of the art and science of machine learning.
 
 ## What's Inside
-
 1. **Linear Regression:** Dive deep into the heart of predictive modeling with our custom implementation of Linear Regression. Understand the core concepts of regression analysis and witness how we build a predictive model step by step.
 
 2. **Naive Bayes:** Explore the elegant simplicity of the Naive Bayes algorithm for classification tasks. We break down the math behind Bayes' theorem and demonstrate how to apply it to real-world data.
@@ -17,6 +16,7 @@ Welcome to the MachineLearning repository! Here, you'll find a treasure trove of
 5. **Forward Propagation:** Take a journey through the forward pass of a neural network. Witness how input data flows through the network, undergoes transformations, and produces an output.
 
 6. **Back Propagation:** Delve into the backpropagation algorithm, the cornerstone of training neural networks. Learn how to adjust weights and biases to minimize errors and improve model performance.
+
 
 ## Why This Repository Matters
 
